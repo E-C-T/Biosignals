@@ -2,6 +2,8 @@
 ## Electromyography (EMG) Deep Learning Pipelines
 This repository contains deep learning pipelines for processing and training models on electromyography (EMG) data. It currently features two major datasets: the Ninapro Database 2 (DB2) and the High-Density sEMG 65-Hand Gestures Database.
 
+In the future additional sensor data like MMG and EEG maybe added as well as python implementations for use on HPC clusters.
+
 ## Repository Structure
 The repository is organized as follows:
 
